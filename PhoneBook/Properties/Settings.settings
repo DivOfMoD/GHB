@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PhoneBook.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="New" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Дмито\Desktop\work\work\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release</Value>
+    </Setting>
+    <Setting Name="Adress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
